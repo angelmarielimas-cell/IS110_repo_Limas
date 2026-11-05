@@ -1,0 +1,17 @@
+Date,City,Product,Category,Price,Quantity,Revenue
+2025-01-01,Iloilo City,Burger,Fast Food,120,50,6000
+2025-01-01,Iloilo City,Milk Tea,Beverage,90,70,6300
+2025-01-02,Cebu City,Pizza,Fast Food,300,30,9000
+2025-01-02,Cebu City,Coffee,Beverage,120,40,4800
+2025-01-03,Manila,Fries,Fast Food,80,60,4800
+2025-01-03,Manila,Milk Tea,Beverage,95,80,7600
+2025-01-04,Davao City,Burger,Fast Food,110,45,4950
+2025-01-04,Davao City,Coffee,Beverage,130,35,4550
+2025-01-05,Iloilo City,Pizza,Fast Food,310,25,7750
+2025-01-05,Iloilo City,Milk Tea,Beverage,100,60,6000
+2025-01-06,Cebu City,Burger,Fast Food,115,55,6325
+2025-01-06,Cebu City,Coffee,Beverage,125,50,6250
+2025-01-07,Manila,Pizza,Fast Food,320,20,6400
+2025-01-07,Manila,Milk Tea,Beverage,90,90,8100
+2025-01-08,Davao City,Fries,Fast Food,85,70,5950
+2025-01-08,Davao City,Coffee,Beverage,120,45,5400
